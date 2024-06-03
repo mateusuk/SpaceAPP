@@ -20,7 +20,7 @@
 
   ## Usage
 
-  <img src="spaceapp.png" alt="Image" width="50%">
+  <img src="SpaceApp.png" alt="Image" width="50%">
 
   ## License
 
