@@ -13,6 +13,8 @@
   ## Description
   
   A website built with React.js and styled components.
+  ![HTML](https://img.shields.io/badge/REACT-blue)
+  ![HTML](https://img.shields.io/badge/StyledComponents-red)
 
   ## Preview
 
